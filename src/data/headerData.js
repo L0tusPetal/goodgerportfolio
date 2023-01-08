@@ -1,9 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
+import headshot from '/Users/wren/Desktop/webprojects/Javascript/goodgerportfolio/goodgerportfolio/src/assets/png/Headshot.jpg'
 
 export const headerData = {
-    name: 'Sreerag Rajan',
-    title: "Web Developer",
-    desciption:"Life may be a meandering path but don't worry about it, rather enjoy it. It is about the journey, not the destination so explore all that comes your way, learn and grow from it, for this journey only happens once.",
-    image: 'https://avatars.githubusercontent.com/u/85482640?v=4',
+    name: 'Chanté Goodger',
+    title: "Production Manager & Writer",
+    desciption:"I'm baby lumbersexual church-key slow-carb next level vape, listicle celiac. Raclette ramps chia normcore hell of. Lumbersexual shaman fanny pack pop-up, typewriter umami drinking vinegar. Yr gochujang vinyl narwhal 90's cliche shabby chic kombucha crucifix deep v chillwave sus seitan. Dummy text? More like dummy thicc text, amirite?",
+    image: headshot,
     resumePdf: resume
 }
